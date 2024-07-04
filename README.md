@@ -37,7 +37,7 @@ This is a password generator web application built with Flask. It provides a use
    ```bash
    openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365 -nodes
    ```
-   - Modify `app.py` to use SS
+   - Modify `app.py` to use SSL:
    ```bash
    if __name__ == '__main__':
     app.run(ssl_context=('cert.pem', 'key.pem'))
