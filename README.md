@@ -47,5 +47,5 @@ This is a password generator web application built with Flask. It provides a use
    https://127.0.0.1:5000
 
 ## Screenshots
-![Home page of the password generator appliacation](https://imgur.com/a/QFhBm3J](https://i.imgur.com/u79VEUL.jpeg)
-![An example of a generated password](https://imgur.com/a/Os7eOcJ](https://i.imgur.com/2Jmtdmh.gif)
+![Home page of the password generator application](https://i.imgur.com/u79VEUL.jpeg)
+![An example of a generated password](https://i.imgur.com/2Jmtdmh.gif)
